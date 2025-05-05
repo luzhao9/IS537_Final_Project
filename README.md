@@ -21,8 +21,8 @@ This project analyzes the relationship between BWF player world rankings and nat
 
 ## 📊 Datasets Used
 
-- Flashscore Player Rankings Dataset
-- BWF Super Series Match Results (2015–2017)
+- Flashscore Player Rankings Dataset https://www.kaggle.com/datasets/jatinthakur706/top-100-badminton-players
+- BWF Super Series Match Results (2015–2017) https://www.kaggle.com/datasets/canggih/badminton-game-data-bwf-super-series-20152017
 
 ## 🛠 Key Cleaning Steps
 
