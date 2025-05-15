@@ -11,15 +11,16 @@ This project investigates whether the international ranking of badminton players
 **To what extent does a badminton player's world ranking correlate with their national win rate?**
 
 
-##  Repository Structure
+## Repository Structure
 
+```text
 IS537_Final_Project/
-├── data/                 # Raw datasets (not included, see README)
-├── processed/            # Cleaned and merged datasets
-├── results/              # Final outputs: cleaned data, visualizations
+├── data/                   # Raw datasets (not included, see README)
+├── processed/              # Cleaned and merged datasets
+├── results/                # Final outputs: cleaned data, visualizations
 ├── IS537_Final_Notebook.ipynb   # Full analysis notebook
-├── requirements.txt      # Python dependencies
-├── README.md             # This file
+├── requirements.txt        # Python dependencies
+└── README.md               # This file
 
 ##  Datasets
 
@@ -54,9 +55,9 @@ The workflow is fully documented and executable via:
 ```bash
 pip install -r requirements.txt
 
-
-## Contact
+##  Contact
 
 Project by **Xinglu Zhao** for **IS537 (Spring 2025)**  
-Email: `xingluz2@illinois.edu`
+Email: xingluz2@illinois.edu
+
 
