@@ -14,13 +14,12 @@ This project investigates whether the international ranking of badminton players
 ##  Repository Structure
 
 IS537_Final_Project/
-│
-├── data/ # Raw datasets (not included, see README)
-├── processed/ # Cleaned and merged datasets
-├── results/ # Final outputs: cleaned data, visualizations
-├── IS537_Final_Notebook.ipynb # Full analysis notebook
-├── requirements.txt # Python dependencies
-├── README.md # This file
+├── data/                 # Raw datasets (not included, see README)
+├── processed/            # Cleaned and merged datasets
+├── results/              # Final outputs: cleaned data, visualizations
+├── IS537_Final_Notebook.ipynb   # Full analysis notebook
+├── requirements.txt      # Python dependencies
+├── README.md             # This file
 
 ##  Datasets
 
@@ -42,7 +41,7 @@ Due to Kaggle’s terms, these datasets are not redistributed here. See the inst
 - **Outlier Handling**: Visualized but retained top-performance outliers.
 - **Reproducibility**: Step-by-step markdown documentation and version control.
 
-## 📈 Analysis Highlights
+##  Analysis Highlights
 
 - Pearson correlation between player ranking and win rate: **r = -0.33**
 - Regression R² score: **0.11** – indicating ranking alone explains 11% of variance.
